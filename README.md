@@ -91,9 +91,8 @@ systemctl start httpd
 
 ⚠️ **Note**: Ensure the package name `httpd` is spelled correctly (not `htpd`).
 
-
-If deployed, the live version of the website can be accessed at:
-(https://github.com/Big-Vibex/host-a-static-website-on-aws
+**Repository Link**
+The project is available on GitHub: [host-a-static-website-on-aws](https://github.com/Big-Vibex/host-a-static-website-on-aws
 )
 ## 🧩 Key Features
 
